@@ -32,9 +32,10 @@ public class MergeSortTester
 
     /******************************
      * execution time analysis 
-     * <INSERT YOUR DESCRIPTION HERE OF 
-     *  YOUR APPARATUS FOR GENERATING EXECUTION 
-     *  TIME DATA...>
+     *  Run the MergeSort code for a randomized data set with a search space
+     *  that will increase by magnitudes of 10.
+     *  For each search space, create a text file
+     *  and record the runtime for each run of MergeSort into that file.
      ******************************/
     public static void main( String[] args ) 
     {
