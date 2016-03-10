@@ -132,7 +132,7 @@ public class MergeSort {
 
 	// Data Collection
 	System.out.println("\nBegin Data Collection:");
-	for (int i = 100; i <= 10000000; i *= 10) {
+	for (int i = 1; i <= 10000000; i *= 10) {
 	    PrintWriter printer = new PrintWriter(new File (new String("size" + i + ".out")));
 	    System.out.println("100 iterations of an array of size " + i + ":");
 	    for (int j = 0; j < 100; j++) {

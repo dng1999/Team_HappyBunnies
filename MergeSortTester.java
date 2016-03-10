@@ -5,7 +5,7 @@
   <INSERT YOUR DISTILLATION OF ALGO HERE>
 
   BIG-OH CLASSIFICATION OF ALGORITHM:
-  <INSERT YOUR EXECUTION TIME CATEGORIZATION OF MERGESORT HERE>
+  O(n log n)
 
   Mean execution times for dataset of size n:
   Batch size: <# of times each dataset size was run>
