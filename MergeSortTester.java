@@ -20,7 +20,14 @@
   n=10000000 time: 2.7912 s
 
   ANALYSIS:
-  <INSERT YOUR RESULTS ANALYSIS HERE>
+  Upon taking the ratios between successive times, we see that the common ratio 
+  approaches 11. This fits our hypothesis: If we take the ratio between 
+  10n log (10n) and n log (n), we get:
+  10(log(10) + log(n)) / log(n)
+  10 + 10 log(10) / log(n)
+  Note that log(10) may be greater than 1, depending on the base.
+  From here, we can see that the ratio should approach a value slightly greater 
+  than 10, which is what we see in our results.
   ======================================*/
 
 import java.io.PrintWriter;
