@@ -32,7 +32,7 @@ public class MergeSortTester
 
     /******************************
      * execution time analysis 
-     *  Run the MergeSort code for a randomized data set with a search space
+     *  Run the MergeSort code for randomized data sets with a search space
      *  that will increase by magnitudes of 10.
      *  For each search space, create a text file
      *  and record the runtime for each run of MergeSort into that file.
