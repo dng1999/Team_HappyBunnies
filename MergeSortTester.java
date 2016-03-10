@@ -10,14 +10,14 @@
 
   Mean execution times for dataset of size n:
   Batch size: 100
-  n=1        time: 
-  n=10       time: 
-  n=100      time: 
-  n=1000     time: 
-  n=10000    time: 
-  n=100000   time: 
-  n=1000000  time: 
-  n=10000000 time: 
+  n=1        time: 0 s
+  n=10       time: 0.0001 s
+  n=100      time: 0.0001 s
+  n=1000     time: 0.0003 s
+  n=10000    time: 0.0019 s
+  n=100000   time: 0.0213 s
+  n=1000000  time: 0.2497 s
+  n=10000000 time: 2.7912 s
 
   ANALYSIS:
   <INSERT YOUR RESULTS ANALYSIS HERE>
